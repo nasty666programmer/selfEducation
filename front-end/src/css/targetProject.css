@@ -1,0 +1,19 @@
+.wrapper {
+    width: 45rem;
+    height: 11rem;
+    margin-left: 25%;
+}
+
+.target-title {
+    color:#942525;
+    font-size: 2rem;
+    margin-left: 32%;
+    font-family: 'Inconsolata', monospace;
+}
+
+.target-text {
+    margin: 4px 3px;
+    color:#942525;
+    font-size: 1.4rem;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
